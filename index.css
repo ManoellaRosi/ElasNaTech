@@ -1,0 +1,32 @@
+body {
+  background-color: #7fffd4;
+  color: #ba55d3;
+  font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  align-items: flex-end;
+  padding: 0px;
+  margin: 0px;
+}
+a {
+  color: #ba55d3;
+}
+img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 2px solid #ba55d3;
+  margin: 5px;
+}
+.imagem {
+  text-align: left;
+  margin: none;
+  padding: none;
+}
+h1 {
+  color: #ba55d3;
+  text-align: center;
+}
